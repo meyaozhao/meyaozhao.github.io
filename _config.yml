@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+  facebook:
   username               :
   app_id                 :
   publisher              :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yao Zhao"
-  avatar           : "Doraemon.png"
+  avatar           : "CSR.png"
   bio              : # "Your biography for the left-hand sidebar"
   location         : # "Location"
   employer         :

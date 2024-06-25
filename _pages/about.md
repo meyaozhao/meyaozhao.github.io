@@ -27,7 +27,7 @@ Hello, I'm Yao Zhao, a 4th-year PhD student at the University of Arizona in Comp
   
 **Revisiting simple regret: Fast rates for returning a good arm**
    - <span style="color: #ff5733;">Yao Zhao</span>, Connor Stephens, Csaba Szepesvári, Kwang-Sung Jun
-   - In International Conference on Machine Learning (**ICML**), 2024, [Official](https://proceedings.mlr.press/v202/zhao23g/zhao23g.pdf)
+   - In International Conference on Machine Learning (**ICML**), 2023, [Official](https://proceedings.mlr.press/v202/zhao23g/zhao23g.pdf)
    - also accepted and presented at 
      - Quantifying Uncertainty: Stochastic, Adversarial, and Beyond workshop, Data-Driven Decision Processes, Simons Institute for the Theory of Computing, Berkeley, 2022
      - Information Theory and Applications Workshop, San Diego, 2024

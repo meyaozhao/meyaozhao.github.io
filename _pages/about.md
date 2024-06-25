@@ -12,7 +12,7 @@ redirect_from:
 
 # Welcome!
 
-Hello, I'm Yao Zhao, a 4th-year PhD student at the University of Arizona in Computer Science working with [Dr. Kwang Sung Jun](https://kwangsungjun.github.io/). I mainly have fun exploring multi-armed bandit problems and adaptive experimentation.
+Hello, I'm Yao Zhao, a 4th-year PhD student at the University of Arizona in Computer Science working with [Dr. Kwang-Sung Jun](https://kwangsungjun.github.io/). I mainly have fun exploring multi-armed bandit problems and adaptive experimentation.
 
 ## Selected Papers
 

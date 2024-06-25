@@ -25,7 +25,7 @@ Hello, I'm Yao Zhao, a 4th-year PhD student at the University of Arizona in Comp
    - Under review in **NeurIPS**, [arXiv](https://arxiv.org/pdf/2406.10738)
    - also accepted and presented at Conference on Digital Experimentation (CODE@MIT), Cambridge, 2023
   
-**Revisiting simple regret: Fast rates for returning a good arm**
+**Revisiting Simple Regret: Fast Rates for Returning a Good Arm**
    - <span style="color: #ff5733;">Yao Zhao</span>, Connor Stephens, Csaba Szepesvári, Kwang-Sung Jun
    - In International Conference on Machine Learning (**ICML**), 2023, [Official](https://proceedings.mlr.press/v202/zhao23g/zhao23g.pdf)
    - also accepted and presented at 

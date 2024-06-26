@@ -12,7 +12,11 @@ redirect_from:
 
 # Welcome!
 
-Hello, I'm Yao Zhao, a 4th-year PhD student at the University of Arizona in Computer Science working with [Dr. Kwang-Sung Jun](https://kwangsungjun.github.io/). I mainly have fun exploring multi-armed bandit problems and adaptive experimentation.
+Hello, I'm Yao Zhao, a 4th-year PhD student at the University of Arizona in computer science working with [Dr. Kwang-Sung Jun](https://kwangsungjun.github.io/). I mainly have fun exploring multi-armed bandit problems and adaptive experimentation.
+
+<span style="font-size: 1.2em; color: #2a9d8f; font-weight: bold;">
+I am seeking a full-time role in industry or a postdoctoral position. Please contact me if you see a fit.
+</span>
 
 ## Selected Papers
 
@@ -23,12 +27,12 @@ Hello, I'm Yao Zhao, a 4th-year PhD student at the University of Arizona in Comp
 **Adaptive Experimentation When You Can't Experiment**
    - <span style="color: #ff5733;">Yao Zhao</span>, Kwang-Sung Jun, Tanner Fiez, Lalit Jain
    - Under review in **NeurIPS**, [arXiv](https://arxiv.org/pdf/2406.10738)
-   - also accepted and presented at Conference on Digital Experimentation (CODE@MIT), Cambridge, 2023
+   - Also accepted and presented at Conference on Digital Experimentation (CODE@MIT), Cambridge, 2023
   
 **Revisiting Simple Regret: Fast Rates for Returning a Good Arm**
    - <span style="color: #ff5733;">Yao Zhao</span>, Connor Stephens, Csaba Szepesvári, Kwang-Sung Jun
    - In International Conference on Machine Learning (**ICML**), 2023, [Official](https://proceedings.mlr.press/v202/zhao23g/zhao23g.pdf)
-   - also accepted and presented at 
+   - Also accepted and presented at 
      - Quantifying Uncertainty: Stochastic, Adversarial, and Beyond workshop, Data-Driven Decision Processes, Simons Institute for the Theory of Computing, Berkeley, 2022
      - Information Theory and Applications Workshop, San Diego, 2024
 
@@ -51,5 +55,5 @@ Amazon, Prime Science team <span style="float: right;">May 2023 - August 2023</s
 
 ## Professional Services
 
-I've served as reviewer for major ML conferences, including ICML, NeurIPS, AISTATS, ICLR etc.
+I've served as a reviewer for major ML conferences, including ICML, NeurIPS, AISTATS, ICLR etc.
 

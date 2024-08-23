@@ -12,7 +12,7 @@ redirect_from:
 
 # Welcome!
 
-Hello, I'm Yao Zhao, a 4th-year PhD student at the University of Arizona in computer science working with [Dr. Kwang-Sung Jun](https://kwangsungjun.github.io/). I mainly have fun exploring multi-armed bandit problems and adaptive experimentation.
+Hello, I'm Yao Zhao, a 5th-year PhD student at the University of Arizona in computer science working with [Dr. Kwang-Sung Jun](https://kwangsungjun.github.io/). I mainly have fun exploring multi-armed bandits / RL / adaptive experimentation.
 
 <span style="font-size: 1.2em; color: #2a9d8f; font-weight: bold;">
 I am seeking a full-time role in industry or a postdoctoral position. Please contact me if you see a fit.
@@ -40,20 +40,38 @@ Feel free to reach out if you'd like to discuss any of these works! In a past li
 
 ## Industry Experiences
 
-**Applied Scientist Intern**  
-Amazon, Prime Science team <span style="float: right;">May 2024 - August 2024</span>  
+<!-- **Applied Scientist Intern**  
+Amazon <span style="float: right;">May 2024 - August 2024</span>  
+- Mentors: [Dr. Lalit Jain](https://lalitjain.com/)
+- Currently working on LLM augmented experimentation. -->
 
-- Currently working on LLM augmented experimentation.
+Applied Scientist Intern, Amazon <span style="float: right;">Summer 2023, summer 2024</span>
 
-**Applied Scientist Intern**  
-Amazon, Prime Science team <span style="float: right;">May 2023 - August 2023</span>  
+<!-- <span style="float: right;">May 2023 - August 2023</span>   -->
 
-- Mentors: [Dr. Lalit Jain](https://lalitjain.com/), [Dr. Tanner Fiez](), [Dr. Bibek Adhikari](https://bibekadhikari.com/)
+- Mentors: [Dr. Lalit Jain](https://lalitjain.com/), [Dr. Tanner Fiez](https://scholar.google.com/citations?user=_B6SVAcAAAAJ&hl=en), [Dr. Bibek Adhikari](https://bibekadhikari.com/)
 - Project blog: [Adaptive experimentation when you can't experiment](https://www.amazon.science/publications/adaptive-experimentation-when-you-cant-experiment)
 - Worked with cross-functional teams of ML scientists, economists.
 - Developed a causal inference ML solution for optimizing Amazon's membership tier under confounding and compliance issues to support key products decision making.
+- Developed a LLM augmented experimentation solution.
+
+## Teaching Experiences
+- Principles of Data Science (Undergrad-level class with 140 students) <span style="float: right;">Fall, 2024</span>  
+
+- Algorithms (Undergrad-level class with 60 students) <span style="float: right;">Spring, 2023</span>
+
+- Machine Learning (Grad-level class with 100+ students, Excellent Teaching Assistant Award) <span style="float: right;">Spring, 2019</span>
+
+- Probability and Statistics (Undergrad-level class with 100+ students) <span style="float: right;">Spring, 2018</span>
 
 ## Professional Services
 
 I've served as a reviewer for major ML conferences, including ICML, NeurIPS, AISTATS, ICLR etc.
 
+## Award
+
+- Travel Award for ICML <span style="float: right;">2023</span>
+
+- Graduate College Fellowship <span style="float: right;">2021</span>
+
+- Excellent Teaching Assistant Award <span style="float: right;">2019</span>

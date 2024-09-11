@@ -12,10 +12,10 @@ redirect_from:
 
 # Welcome!
 
-Hello, I'm Yao Zhao, a 5th-year PhD student at the University of Arizona in computer science working with [Dr. Kwang-Sung Jun](https://kwangsungjun.github.io/). I mainly have fun exploring multi-armed bandits / RL / adaptive experimentation.
+Hello, I'm Yao Zhao, a 5th-year PhD student at the University of Arizona in computer science working with [Dr. Kwang-Sung Jun](https://kwangsungjun.github.io/). I mainly have fun exploring multi-armed bandits / RL / adaptive experimentation, and recently RLHF.
 
 <span style="font-size: 1.2em; color: #2a9d8f; font-weight: bold;">
-I am seeking a full-time role in industry or a postdoctoral position. Please contact me if you see a fit.
+I am seeking my next research position. Please contact me if you see a fit.
 </span>
 
 ## Selected Papers
@@ -56,7 +56,7 @@ Applied Scientist Intern, Amazon <span style="float: right;">Summer 2023, summer
 - Developed a LLM augmented experimentation solution.
 
 ## Teaching Experiences
-- Principles of Data Science (Undergrad-level class with 140 students) <span style="float: right;">Fall, 2024</span>  
+- Principles of Data Science (Undergrad-level class with 100+ students) <span style="float: right;">Fall, 2024</span>  
 
 - Algorithms (Undergrad-level class with 60 students) <span style="float: right;">Spring, 2023</span>
 

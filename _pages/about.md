@@ -26,7 +26,7 @@ I am seeking my next research position. Please contact me if you see a fit.
 
 **Adaptive Experimentation When You Can't Experiment**
    - <span style="color: #ff5733;">Yao Zhao</span>, Kwang-Sung Jun, Tanner Fiez, Lalit Jain
-   - In Conference on Neural Information Processing Systems (**NeurIPS**), [arXiv](https://arxiv.org/pdf/2406.10738)
+   - In Conference on Neural Information Processing Systems (**NeurIPS**), 2024, [arXiv](https://arxiv.org/pdf/2406.10738)
    - Also accepted and presented at Conference on Digital Experimentation (CODE@MIT), Cambridge, 2023
   
 **Revisiting Simple Regret: Fast Rates for Returning a Good Arm**

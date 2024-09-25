@@ -22,11 +22,11 @@ I am seeking my next research position. Please contact me if you see a fit.
 
 **Fixing the Loose Brake: Exponential Tail Bounds for Stopping Time in Best Arm Identification**
    - (co 1st author: <sup>†</sup> ) Kapilan Balagopalan<sup>†</sup>, Tuan Nguyen<sup>†</sup>, <span style="color: #ff5733;">Yao Zhao</span><sup>†</sup>, Kwang-Sung Jun
-   - Under review in **NeurIPS**
+   - Under review in **AISTATS**
 
 **Adaptive Experimentation When You Can't Experiment**
    - <span style="color: #ff5733;">Yao Zhao</span>, Kwang-Sung Jun, Tanner Fiez, Lalit Jain
-   - Under review in **NeurIPS**, [arXiv](https://arxiv.org/pdf/2406.10738)
+   - In Conference on Neural Information Processing Systems (**NeurIPS**), [arXiv](https://arxiv.org/pdf/2406.10738)
    - Also accepted and presented at Conference on Digital Experimentation (CODE@MIT), Cambridge, 2023
   
 **Revisiting Simple Regret: Fast Rates for Returning a Good Arm**

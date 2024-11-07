@@ -70,6 +70,8 @@ I've served as a reviewer for major ML conferences, including ICML, NeurIPS, AIS
 
 ## Award
 
+- NeurIPS Scholar Award <span style="float: right;">2024</span>
+
 - Travel Award for ICML <span style="float: right;">2023</span>
 
 - Graduate College Fellowship <span style="float: right;">2021</span>

@@ -15,18 +15,18 @@ redirect_from:
 Hello, I'm Yao Zhao, a 5th-year PhD student at the University of Arizona in computer science working with [Dr. Kwang-Sung Jun](https://kwangsungjun.github.io/). I mainly have fun exploring multi-armed bandits / RL / adaptive experimentation, and recently RLHF.
 
 <span style="font-size: 1.2em; color: #2a9d8f; font-weight: bold;">
-I am seeking my next research position. Please contact me if you see a fit.
+I am seeking my next position. Please contact me if you see a fit.
 </span>
 
 ## Selected Papers
 
 **Fixing the Loose Brake: Exponential Tail Bounds for Stopping Time in Best Arm Identification**
    - (co 1st author: <sup>†</sup> ) Kapilan Balagopalan<sup>†</sup>, Tuan Nguyen<sup>†</sup>, <span style="color: #ff5733;">Yao Zhao</span><sup>†</sup>, Kwang-Sung Jun
-   - Under review in **AISTATS**
+   - In International Conference on Machine Learning (**ICML**), 2025, [arXiv](https://arxiv.org/pdf/2411.01808)
 
 **Adaptive Experimentation When You Can't Experiment**
    - <span style="color: #ff5733;">Yao Zhao</span>, Kwang-Sung Jun, Tanner Fiez, Lalit Jain
-   - In Conference on Neural Information Processing Systems (**NeurIPS**), 2024, [arXiv](https://arxiv.org/pdf/2406.10738)
+   - In Conference on Neural Information Processing Systems (**NeurIPS**), 2024, [Official](https://proceedings.neurips.cc/paper_files/paper/2024/file/dcbc5a5705565452057a8df872595d5c-Paper-Conference.pdf)
    - Also accepted and presented at Conference on Digital Experimentation (CODE@MIT), Cambridge, 2023
   
 **Revisiting Simple Regret: Fast Rates for Returning a Good Arm**
@@ -36,7 +36,7 @@ I am seeking my next research position. Please contact me if you see a fit.
      - Quantifying Uncertainty: Stochastic, Adversarial, and Beyond workshop, Data-Driven Decision Processes, Simons Institute for the Theory of Computing, Berkeley, 2022
      - Information Theory and Applications Workshop, San Diego, 2024
 
-Feel free to reach out if you'd like to discuss any of these works! In a past life, I had fun with mobile network optimization and learning problems, and I published a few papers in these areas. This application journey brought me here to continue my research and exploration on a deeper and more theoretical level.
+Feel free to reach out if you'd like to discuss any of these works!
 
 ## Industry Experiences
 

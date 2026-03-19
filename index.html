@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yao Zhao</title>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Sora', -apple-system, sans-serif;
+    background: #0c0c0c;
+    color: #e0e0e0;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 24px;
+    overflow: hidden;
+  }
+
+  /* subtle gradient orb */
+  .orb {
+    position: fixed;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    filter: blur(120px);
+    opacity: 0.25;
+    pointer-events: none;
+    z-index: 0;
+  }
+  .orb-1 {
+    top: -15%;
+    right: -10%;
+    background: #6366f1;
+  }
+  .orb-2 {
+    bottom: -20%;
+    left: -10%;
+    background: #2dd4bf;
+  }
+
+  .card {
+    position: relative;
+    z-index: 1;
+    max-width: 520px;
+    width: 100%;
+    padding: 40px 36px;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 20px;
+    backdrop-filter: blur(60px);
+    -webkit-backdrop-filter: blur(60px);
+  }
+
+  .header {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-bottom: 28px;
+  }
+
+  .photo {
+    width: 56px;
+    height: 56px;
+    border-radius: 14px;
+    object-fit: cover;
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+
+  .header-text h1 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #fff;
+  }
+  .header-text .tagline {
+    font-size: 0.78rem;
+    color: #666;
+    font-weight: 300;
+    margin-top: 2px;
+  }
+
+  .bio {
+    font-size: 0.88rem;
+    line-height: 1.8;
+    color: #888;
+    font-weight: 300;
+  }
+
+  .bio a {
+    color: #bbb;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    transition: color 0.2s, border-color 0.2s;
+  }
+  .bio a:hover {
+    color: #fff;
+    border-color: rgba(255,255,255,0.3);
+  }
+
+  .bio + .bio { margin-top: 14px; }
+
+  .divider {
+    height: 1px;
+    background: rgba(255,255,255,0.06);
+    margin: 28px 0;
+  }
+
+  .contact a {
+    font-size: 0.78rem;
+    color: #555;
+    text-decoration: none;
+    font-weight: 400;
+    transition: color 0.2s;
+  }
+  .contact a:hover { color: #fff; }
+
+  @media (max-width: 480px) {
+    .card { padding: 28px 24px; }
+    .bio { font-size: 0.84rem; }
+    .orb { width: 300px; height: 300px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="orb orb-1"></div>
+<div class="orb orb-2"></div>
+
+<div class="card">
+
+  <div class="header">
+    <img src="photo.jpg" alt="Yao Zhao" class="photo">
+    <div class="header-text">
+      <h1>Yao Zhao</h1>
+      <div class="tagline">Machine Learning · Microsoft AI</div>
+    </div>
+  </div>
+
+  <p class="bio">
+    I work on machine learning at Microsoft AI. Also had fun working previously at Pinterest and Amazon. I got my PhD in computer science from the University of Arizona, luckily advised by <a href="https://kwangsungjun.github.io/" target="_blank">Dr. Kwang-Sung Jun</a>.
+  </p>
+
+  <p class="bio">
+    My work spans core ML problems like multi-armed bandits, with applications in adaptive experimentation, LLMs, and causal inference. I publish at ICML (<a href="https://proceedings.mlr.press/v202/zhao23g/zhao23g.pdf" target="_blank">'23</a>, <a href="https://openreview.net/pdf?id=DF2JV03T6q" target="_blank">'25</a>) and NeurIPS (<a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/dcbc5a5705565452057a8df872595d5c-Paper-Conference.pdf" target="_blank">'24</a>).
+  </p>
+
+  <div class="divider"></div>
+
+  <div class="contact">
+    <a href="mailto:yaoz@arizona.edu">yaoz@arizona.edu</a>
+  </div>
+
+</div>
+
+</body>
+</html>
